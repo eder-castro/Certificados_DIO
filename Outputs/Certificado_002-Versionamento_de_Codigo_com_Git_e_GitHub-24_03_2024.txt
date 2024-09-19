@@ -1,0 +1,2 @@
+Nome do curso: Versionamento de Código com Git e GitHub
+Data de conclusão: 24/03/2024
